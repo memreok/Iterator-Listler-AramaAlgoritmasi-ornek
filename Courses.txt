@@ -1,0 +1,7 @@
+Fizik
+Matematik
+İngilizce
+Kimya
+Türkçe
+Algoritma
+Tarih
